@@ -1,3 +1,3 @@
 # pygame
 
-my second pygame
+my second pygame nice
